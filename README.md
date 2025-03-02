@@ -165,3 +165,10 @@ console.log(Math.max(10, 20, 30)); // 30
 console.log(Math.min(10, 20, 30)); // 10
 ```
 
+### 2️⃣6️⃣ `Math.abs()` manfiy sonni musbat songa o'zgartiradi.
+```js
+console.log(Math.abs(5));   // 5  (o‘zgarmaydi)
+console.log(Math.abs(-5));  // 5  (manfiy son musbatga o‘zgardi)
+console.log(Math.abs(0));   // 0  (0 o‘zgarishsiz qoladi)
+```
+
